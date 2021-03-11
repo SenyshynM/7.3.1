@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\унік\Алгоритмізація і програмування\lab7.3\7.3.2_rec\7.3.2_rec\7.3.2_rec.cpp(78): warning C4715: 'sum': not all control paths return a value
+     Creating library E:\унік\Алгоритмізація і програмування\lab7.3\7.3.2_rec\Debug\UnitTest1.lib and object E:\унік\Алгоритмізація і програмування\lab7.3\7.3.2_rec\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\унік\Алгоритмізація і програмування\lab7.3\7.3.2_rec\Debug\UnitTest1.dll
